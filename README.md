@@ -1,2 +1,2 @@
-# QSDCNN
-QSDCNN: A hybrid quantum-enhanced convolutional neural network for end-to-end EEG-based imagined speech decoding
+# CQ-SDNet
+CQ-SDNet: A classical-quantum approach for parameter-efficient imagined speech decoding from EEG signal
